@@ -74,7 +74,7 @@ const ContactUs = () => {
           message
         })
       })
-      const res = await req.json()
+      await req.json()
       setName('');
       setEmail('');
       setMessage('');
