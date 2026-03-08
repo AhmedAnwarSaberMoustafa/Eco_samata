@@ -80,7 +80,3 @@ npm run build
 - `src/data.js` Local fallback dataset
 - `src/api_route.js` API base URL
 
-## Contact
-
-- Phone: `01126989864`
-- Email: `devahmedanwer@gmail.com`
